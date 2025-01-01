@@ -1,4 +1,4 @@
-# hyeonybraincloud-System-Programming_2020-1
+# System-Programming
 ## Assignment 2: FTP Command Implementation
 ### 1. Introduction
 다음의 명령어를 client와 server 각각을 중심으로 구현하도록 하는 시스템을 설계 및 구현한다.
