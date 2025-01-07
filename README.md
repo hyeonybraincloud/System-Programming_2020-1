@@ -92,3 +92,18 @@
 ### 2. Flowchart
 ![image](https://github.com/user-attachments/assets/5e7dc2df-7cc5-46f7-a6ae-bf8eca7515d4)
 
+### 3. Result
+\- 다중 접속
+
+![image](https://github.com/user-attachments/assets/86ad7a3f-d064-4a22-bce3-7f496b0c32dd)
+
+\- NLST
+
+![image](https://github.com/user-attachments/assets/d02595b1-7c69-4952-9a1a-0de7f9d43549)
+
+\- LIST
+
+<img width="469" alt="스크린샷 2025-01-07 195828" src="https://github.com/user-attachments/assets/deb7e27f-2632-4d91-865f-ac833a9c1b91" />
+
+
+
