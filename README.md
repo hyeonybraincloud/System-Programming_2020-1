@@ -85,4 +85,10 @@
 
 ![image](https://github.com/user-attachments/assets/3614b4f1-ff7c-4f1e-a6bf-f2b0d1c36ff0)
 
-## Assignment 3: 
+## Assignment 3: Socket
+### 1. Introduction
+앞서 했던 방식은 client와 server가 pipe을 이용하여 서로 통신하였다. 그런데 pipe 방식은 local process 간 통신만 가능하며, 네트워크를 통한 원격 통신은 불가능하다. 또한, 기본적으로 pipe 방식은 단방향으로 동작하며, 양방향 통신을 위해서는 추가적인 설정이 필요하다. 그리고 다수의 프로세스를 동시에 처리하는 데 부적합하며, 다중 연결 지원이 어렵다. 이에 대한 대안으로 **socket**이 제안된다. 본 과제에서는 client와 server가 socket을 통해 서로 통신하도록 한다. 이는 client와 server가 네트워크를 통해 **원격 시스템 간 통신을 가능**하게 한다. 또한, **양방향 통신**을 지원하여 **데이터 송수신이 동시에 가능**하다.
+
+### 2. Flowchart
+![image](https://github.com/user-attachments/assets/5e7dc2df-7cc5-46f7-a6ae-bf8eca7515d4)
+
