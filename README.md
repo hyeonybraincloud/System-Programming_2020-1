@@ -30,60 +30,59 @@
 ### 3. Result
 \- PWD
 
-![image](https://github.com/user-attachments/assets/bfdf2903-578c-4ded-8dff-2055d2256751)
-
+![PWD](https://github.com/user-attachments/assets/35c6c0f1-545f-4ba3-8ef2-d239f46965e3)
 
 \- MKD
 
-![image](https://github.com/user-attachments/assets/1f99e995-7b51-4f5d-95f6-d9ee636ba719)
+![MKD](https://github.com/user-attachments/assets/12707231-9f76-4d46-966c-b3971dc45ea6)
 
 \- CD
 
-![image](https://github.com/user-attachments/assets/0eba42d9-4468-4acc-93df-b6fef21e135d)
+![CD](https://github.com/user-attachments/assets/d7fe1335-e468-4554-a59a-eed4df5097e6)
 
 \- CDUP
 
-![image](https://github.com/user-attachments/assets/d053fbb6-b6bb-4f5f-bc57-6f6be1581c48)
+![CDUP](https://github.com/user-attachments/assets/bc9a8716-19ff-4c30-97cb-0361e6171d17)
 
 \- RNFR & RNTO
 
-![image](https://github.com/user-attachments/assets/c58012b6-8a13-4ae6-a2be-d65fdea5bfff)
+![RNFR   RNTO](https://github.com/user-attachments/assets/d379b1f2-4f49-4d8a-bf7a-7c11c5222dcc)
 
 \- RMD
 
-![image](https://github.com/user-attachments/assets/e23f9ec6-2315-4d8d-bb6d-38d4644b2453)
+![RMD](https://github.com/user-attachments/assets/ad7c5748-a0ab-457e-946b-05970b28c41b)
 
 \- DELE
 
-![image](https://github.com/user-attachments/assets/e8d504a0-8809-491e-bf3f-f79afdbf3874)
+![DELE](https://github.com/user-attachments/assets/74df07b7-37a1-4b8f-abd1-22f38715aa2c)
 
 \- QUIT
 
-![image](https://github.com/user-attachments/assets/2d177723-1d06-4d7b-bce4-d971b6f4142e)
+![QUIT](https://github.com/user-attachments/assets/d399a05b-3db2-4f87-893f-28cd434a10a8)
 
 \- NLST
 
-![image](https://github.com/user-attachments/assets/df453a68-d573-4d54-baee-b8eba066cdb8)
+<img width="285" alt="NLST" src="https://github.com/user-attachments/assets/491b916d-8aaa-4ee5-bb63-519387e5f667" />
 
 \- NLST \-a
 
-![image](https://github.com/user-attachments/assets/e0484ab1-59c7-4ea7-864e-300ef3f0b018)
+<img width="292" alt="NLST -a" src="https://github.com/user-attachments/assets/2d8e985d-2f4e-4883-8a59-c3fb04636088" />
 
 \- NLST \-l
 
-![image](https://github.com/user-attachments/assets/96863d13-f12c-4a8b-9260-565522049734)
+<img width="293" alt="NLST -l" src="https://github.com/user-attachments/assets/449a6ee5-0bc4-471b-b957-12d1072884f1" />
 
 \- NLST \-al
 
-![image](https://github.com/user-attachments/assets/27d6d53d-390f-4173-b63a-548baaa77bf8)
+<img width="299" alt="NLST -al" src="https://github.com/user-attachments/assets/e9088578-b885-4d28-902c-66bdbad286b2" />
 
 \- NLST \[directory] \[option]
 
-![image](https://github.com/user-attachments/assets/5688fd9a-e568-4a57-b369-a985f5ceb3ff)
+![NLST  directory   option](https://github.com/user-attachments/assets/d270e770-1274-4b34-94e8-a16de6076d52)
 
 \- NLST \[file] \[option]
 
-![image](https://github.com/user-attachments/assets/3614b4f1-ff7c-4f1e-a6bf-f2b0d1c36ff0)
+![NLST  file   option](https://github.com/user-attachments/assets/b1e5e4a6-c5a8-472c-8c12-0b906e35542b)
 
 ## Assignment 3: Socket
 ### 1. Introduction
