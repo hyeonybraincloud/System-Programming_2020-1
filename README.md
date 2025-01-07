@@ -105,5 +105,26 @@
 
 <img width="469" alt="스크린샷 2025-01-07 195828" src="https://github.com/user-attachments/assets/deb7e27f-2632-4d91-865f-ac833a9c1b91" />
 
+\- PWD & CND
 
+<img width="323" alt="스크린샷 2025-01-08 001939" src="https://github.com/user-attachments/assets/902c695e-dac2-4c03-8a55-a45c94a59728" />
 
+\- MKD, RNFR & RNTO, RMD
+
+<img width="266" alt="스크린샷 2025-01-08 002123" src="https://github.com/user-attachments/assets/ba8bc06b-dba8-40ef-bd4c-cadb808a74c8" />
+
+\- DELE
+
+<img width="270" alt="스크린샷 2025-01-08 002252" src="https://github.com/user-attachments/assets/4e95a981-7956-494f-8b3e-f8317574c9e6" />
+
+\- QUIT(by command)
+
+<img width="270" alt="스크린샷 2025-01-08 002402" src="https://github.com/user-attachments/assets/0f41433b-acf4-41a1-a5f6-e378c7e614ac" />
+
+\- QUIT(by signal)
+
+<img width="276" alt="스크린샷 2025-01-08 002510" src="https://github.com/user-attachments/assets/ce4e5ea1-5343-4f76-9734-3feb22b0ac6f" />
+
+\- 잘못된 입력에 대한 예외 처리
+
+<img width="313" alt="스크린샷 2025-01-08 002616" src="https://github.com/user-attachments/assets/b92b34cc-a9a9-42cb-829a-4ff7c5bf3fc7" />
